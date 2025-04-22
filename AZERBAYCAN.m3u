@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 timeshift="0" tvg-name="✧AZTV" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZe6noVW8J7GyvOXld6.png" group-title="Azərbaycan", ✧ AZTV
-#EXTGRP:Azərbaycan
-http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
-#EXTINF:-1 timeshift="0" tvg-name="✧ Ictimai TV" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4vGZw1B4J20a7VGdn.png" group-title="Azərbaycan", ✧ Ictimai TV
-#EXTGRP:Azərbaycan
-http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
 #EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ Mədəniyyət TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
