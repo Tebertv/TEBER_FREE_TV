@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MEGA TV
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",ESMA TV
+https://a8.radyotelekom.com.tr:3466/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İSMAYIL TV
+https://live.yayingold.com.tr/ismailtv/index.m3u8
 
 #EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ Mədəniyyət TV
 #EXTGRP:Azərbaycan
