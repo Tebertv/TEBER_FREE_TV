@@ -8,8 +8,8 @@ https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İSMAYILLI TV
 https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MEGA TV
-https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MEGA GONCA TV
+https://tx.flv.nimo.tv/live/su2029521148144r28855dfeee3bafd9006a17ea61fb9f10.flv?wsSecret=b28d5a557ac09a724b414378ae60633a&wsTime=681b69ab&seqid=3447999919695&ctype=nimo_web&ver=1&appid=81&tp=1746540587326&needwm=1&ratio=500&dMod=mseh-0&sdkPcdn=1_1&u=1704232386598&t=100&sv=2412091148&sdk_sid=1746541956041&a_block=0
 
 #EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ Mədəniyyət TV
 #EXTGRP:Azərbaycan
