@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Mega GəncəTV http://195.9.195.3:8080/hls/215207.m3u8
+#EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ MegaGəncəTV
+#EXTGRP:Azərbaycan
+http://195.9.195.3:8080/hls/215207.m3u8
 
 #EXTINF:-1 timeshift="0" tvg-name="✧Mədəniyyət TV" tvg-logo="https://i.postimg.cc/qMMTf7d6/medd.jpg" group-title="Azərbaycan", ✧ Mədəniyyət TV
 #EXTGRP:Azərbaycan
