@@ -1,16 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL STAR
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR1
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR 2
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH DİZİ
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+https://stream-cdn-iad3.vaughnsoft.net/play/live_sungurlar.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",SHOX TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
@@ -29,9 +32,6 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
 https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",DİNİ CHANNEL
-https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",YANSIMA SİNEMA HD
 https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
@@ -69,6 +69,11 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
 https://canlitvulusal.xyz/live/tiviturk/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 4K 
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3317656516/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE5  
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w500655317.m3u8
 
@@ -86,16 +91,6 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL STUDIOS 7 (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,MARVEL STUDIOS  
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1902489179/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TRT 4K (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 4K 
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3317656516/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",DİNİ CHANNEL
 https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
