@@ -12,11 +12,8 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH DİZİ
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH MAX TV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_sungurlar.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",SHOX TV
-https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
 https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
@@ -38,6 +35,11 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FILMA24 HINDI (6)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="Albania" group-title="VavooTO Albania"  ,FILMA24 HINDI (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/795212720/index.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
